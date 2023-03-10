@@ -1,0 +1,14 @@
+{
+  "scripts": {
+    "build": "gulp"
+  },
+  "dependencies": {
+    "express": "^4.18.2",
+    "gulp-jscrambler": "^6.4.9"
+  },
+  "devDependencies": {
+    "grunt": "^1.6.1",
+    "grunt-jscrambler": "^6.4.9",
+    "gulp": "^4.0.2"
+  }
+}
